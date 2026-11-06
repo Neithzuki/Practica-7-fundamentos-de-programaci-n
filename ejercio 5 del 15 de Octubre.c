@@ -1,5 +1,5 @@
 /*Lopez Santiago Cristian Ariel
-Ejercicio 4 de clases
+Ejercicio 5 de clases
 Elegir una opción del menú a partir del carácter ingresado*/
 
 #include <stdio.h>
