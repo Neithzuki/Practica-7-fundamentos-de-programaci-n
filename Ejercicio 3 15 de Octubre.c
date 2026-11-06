@@ -1,5 +1,5 @@
 /*Lopez Santiago Cristian Ariel
-Ejercicio 2 de clases
+Ejercicio 3 de clases
 validar si un número es par o impar*/
 
 #include <stdio.h>
