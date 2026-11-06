@@ -1,6 +1,6 @@
-\\Lopez Santiago Cristian Ariel 
+/*Lopez Santiago Cristian Ariel 
 Ejercicio 1 de la practica 
-Numero mayor que otro*\
+Numero mayor que otro*/
   
 #include<stdio.h>
   
